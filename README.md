@@ -1,4 +1,4 @@
-# Banco_de_dados_por_ordenacao
+# Gerenciamento_de_produtos
 
 Este programa é um sistema de gerenciamento de produtos.
 Ele permite adicionar, remover, atualizar e buscar produtos em uma lista.
